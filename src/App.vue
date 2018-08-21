@@ -1,4 +1,5 @@
 <template>
+	<v-app>
   <div id="app" class="header">
     <img src="./assets/logo.png">
   <hr/>
@@ -6,6 +7,7 @@
       <router-view/>
     </div>
   </div>
+  </v-app>
 </template>
 
 <script>

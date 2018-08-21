@@ -1,6 +1,6 @@
 <template>
-  <router-link to="test">Test Page</router-link>
   <v-container fluid grid-list-md>
+      <router-link to="test">Test Page</router-link>
     <v-layout row wrap>
       <v-flex d-flex xs12 sm6 md4>
         <v-card color="purple" dark>
